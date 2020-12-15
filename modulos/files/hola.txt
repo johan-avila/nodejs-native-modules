@@ -1,0 +1,9 @@
+Hola estoy haceiendo ejercicios de asincronismo para pracricar.
+
+Soy una persona que le gusta node, react
+
+me gusta: 
+
+- grphql
+- travis-ci
+- javascript

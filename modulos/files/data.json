@@ -1,0 +1,308 @@
+{
+    "data": [
+      {
+        "_id": "5f72adc061150b00084875ad",
+        "title": "Fight Club",
+        "synopsis": "Un insomne hombre y un resbaladizo vendedor de jabones canalizan sus instintos de agresión masculina hacia una nueva e impactante forma de terapia. Su concepto cobra forma cuando se integran 'clubes de pelea' clandestinos en todas las ciudades, hasta que una excéntrica joven se cruza en el cao para detonar una espiral fuera de control hacia el olvido.",
+        "img_url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRm-V9xE3GLaf5bFWR7EnoYydnN4yLvcNxNLLe_mIzXVw4bVy5k",
+        "year": 2001,
+        "tags": [
+          "Action"
+        ],
+        "director": {
+          "name": "Agustin",
+          "last_name": "Fincher"
+        }
+      },
+      {
+        "_id": "5f72aebb61150b00084875ae",
+        "title": "El Lobo De Wall Street",
+        "synopsis": "Jordan Belfort es un ambicioso corredor de bolsa que asciende a niveles enormes de riqueza, pero sus métodos no son del todo legales",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199021/db_movies/loboDeWS_wuvbax.jpg",
+        "year": 2013,
+        "tags": [
+          "Drama"
+        ],
+        "director": {
+          "name": "Martin",
+          "last_name": "Scorsese"
+        }
+      },
+      {
+        "_id": "5f72aed261150b00084875af",
+        "title": "Great expectations",
+        "synopsis": "Modernización de los clásicos de Charles Dickens encuentra el desventurado Finn como pintor en Nueva York persiguiendo su amor no correspondido y la infancia arrogante.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199019/db_movies/greatExpectations_skqwpz.jpg",
+        "year": 19,
+        "tags": [
+          "Romance"
+        ],
+        "director": {
+          "name": "Alfonso",
+          "last_name": "Cuaron"
+        }
+      },
+      {
+        "_id": "5f72aedf61150b00084875b0",
+        "title": "Gravity",
+        "synopsis": "Los ganadores del Oscar® Sandra Bullock (Un sueño posible) y George Clooney (Amor sin escalas, Syriana) protagonizan este apasionante thriller escrito, dirigido y producido por el nominado al Oscar® Alfonso Cuarón (Niños del hombre) y ambientado en el infinito e implacable dominio del espacio profundo.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199018/db_movies/gravity_dwkj7w.jpg",
+        "year": 2013,
+        "tags": [
+          "Thriller"
+        ],
+        "director": {
+          "name": "Alfonso",
+          "last_name": "Cuaron"
+        }
+      },
+      {
+        "_id": "5f72aeef61150b00084875b1",
+        "title": "E.T., El extraterrestre",
+        "synopsis": "Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave se marcha olvidándose de él. Tiene miedo. Está completamente solo, pero se hará amigo de un niño, que lo esconde en su casa. El niño y sus hermanos intentarán encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que los científicos y la policía lo encuentren.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199019/db_movies/etExtraterrestre_d8ix0n.jpg",
+        "year": 1982,
+        "tags": [
+          "Thriller"
+        ],
+        "director": {
+          "name": "Steven",
+          "last_name": "Spielberg"
+        }
+      },
+      {
+        "_id": "5f72af0161150b00084875b2",
+        "title": "Indiana Jones y los cazadores del arca perdida",
+        "synopsis": "Prepárense para las emociones de Indiana Jones y los cazadores del arca perdida. Indy y su exnovia Marion Ravenwood esquivan bombas trampa, luchan contra los nazis y les clavan la mirada a serpientes en su increíble búsqueda mundial del arca perdida.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199021/db_movies/IndianaJones_dem58w.jpg",
+        "year": 1981,
+        "tags": [
+          "Action"
+        ],
+        "director": {
+          "name": "Steven",
+          "last_name": "Spielberg"
+        }
+      },
+      {
+        "_id": "5f72af1261150b00084875b3",
+        "title": "Mi Pobre Angelito 2: Perdido En Nueva York",
+        "synopsis": "Kevin está en Nueva York con dinero y tarjetas de crédito para divertirse. Pero Kevin no estará solo por mucho tiempo y seencontrará nuevamente a viejos amigos.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199020/db_movies/homeAlone2MPANGELITO_wor53s.jpg",
+        "year": 1992,
+        "tags": [
+          "Comedy"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72af2961150b00084875b4",
+        "title": "Quédate A Mi Lado",
+        "synopsis": "Al descubrir que está gravemente enferma, Jackie intenta mejorar la relación con sus hijos y con Isabel, la nueva pareja de su exesposo.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199017/db_movies/Qu%C3%A9dateAMiLado_edemn1.jpg",
+        "year": 1998,
+        "tags": [
+          "Drama"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72af3d61150b00084875b5"
+      },
+      {
+        "_id": "5f72af3e61150b00084875b6"
+      },
+      {
+        "_id": "5f72af4061150b00084875b7"
+      },
+      {
+        "_id": "5f72af4d61150b00084875b8",
+        "title": "Papá por Siempre",
+        "synopsis": "Daniel Hillard no es un papá ordinario, así que se disfraza de la señora Doubtfire, una devota ama de llaves inglesa para cuidar a sus hijos. Libre para ser la 'mujer' que nunca pensó ser, el disfrazado Daniel crea una nueva vida con toda su familia. Atrevida, divertida y frecuentemente conmovedora, Robin Williams hace de este éxito una película para verse una y otra vez.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199014/db_movies/papaporSiemnpre_d9gemv.jpg",
+        "year": 1993,
+        "tags": [
+          "Comedy"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72af8870824f0007d24aa0",
+        "title": "Percy Jackson y los Dioses del Olimpo: El Ladrón del Rayo",
+        "synopsis": "Percy Jackson no es un adolescente como los otros, acaba de enterarse de que es el hijo de Poseidón y se le acusa de haber robado el rayo de Zeus, ¡el arma más poderosa jamás conocida! Con nubes de tormenta formándose, Percy se adentra en la más increíble odisea para probar su inocencia, recuperar el rayo y prevenir una guerra entre los dioses ¡que podría destruir el mundo entero!",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199016/db_movies/PercyJackson_cticzd.jpg",
+        "year": 2010,
+        "tags": [
+          "Fantasy"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72af9c70824f0007d24aa1",
+        "title": "Pixels",
+        "synopsis": "En Pixels, unos alienígenas intergalácticos malinterpretan los video-feeds de los clásicos juegos de arcade como una declaración de guerra contra ellos y atacan La Tierra usando los juegos como modelos para sus asaltos. El Presidente Will Cooper debe llamar a su mejor amigo de la infancia, el campeón de videojuegos de los 80 Sam Brenner, ahora instalador de equipos de teatro en casa, para que...",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199019/db_movies/ParaAtraparAlLadron_woc44v.jpg",
+        "year": 2015,
+        "tags": [
+          "Comedy"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72afa170824f0007d24aa2",
+        "title": "Pixels",
+        "synopsis": "En Pixels, unos alienígenas intergalácticos malinterpretan los video-feeds de los clásicos juegos de arcade como una declaración de guerra contra ellos y atacan La Tierra usando los juegos como modelos para sus asaltos. El Presidente Will Cooper debe llamar a su mejor amigo de la infancia, el campeón de videojuegos de los 80 Sam Brenner, ahora instalador de equipos de teatro en casa, para que...",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199019/db_movies/ParaAtraparAlLadron_woc44v.jpg",
+        "year": 2015,
+        "tags": [
+          "Comedy"
+        ],
+        "director": {
+          "name": "Chris",
+          "last_name": "Columbus"
+        }
+      },
+      {
+        "_id": "5f72afb170824f0007d24aa3",
+        "title": "El Juego",
+        "synopsis": "Nicholas Van Orton (Michael Douglas) es un rico inversionista de NY, Van Orton es conocido por ser soberbio, ególatra y sin escrúpulos, tanto por sus amigos como por su misma familia. El día de su cumpleaños #48, su hermano Conrad (Sean Penn) le da un inusual regalo de cumpleaños, un certificado de regalo de una compañía conocida como 'Servicios de Recreación'.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199018/db_movies/eljuego_w1ltil.jpg",
+        "year": 2000,
+        "tags": [
+          "Fantasy"
+        ],
+        "director": {
+          "name": "David",
+          "last_name": "Fincher"
+        }
+      },
+      {
+        "_id": "5f72afbf70824f0007d24aa4",
+        "title": "Alien 3",
+        "synopsis": "Ripley sigue siendo acosada por un alienígena salvaje, después de que su cápsula de escape se estrella en un planeta prisión.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199018/db_movies/alien3_eewpw5.jpg",
+        "year": 1992,
+        "tags": [
+          "Fantasy"
+        ],
+        "director": {
+          "name": "David",
+          "last_name": "Fincher"
+        }
+      },
+      {
+        "_id": "5f72afcc70824f0007d24aa5",
+        "title": "Los Siete Pecados Capitales",
+        "synopsis": "Dos detectives uno a punto de jubilarse y otro novato- investigan una misteriosa serie de asesinatos que tienen como motivo los siete pecados capitales.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199014/db_movies/sietepecados_vsfynz.jpg",
+        "year": 1995,
+        "tags": [
+          "Mystery"
+        ],
+        "director": {
+          "name": "David",
+          "last_name": "Fincher"
+        }
+      },
+      {
+        "_id": "5f72afe770824f0007d24aa6",
+        "title": "Vértigo",
+        "synopsis": "James Stewart y Kim Novak protagonizan la obra maestra de misterio de Alfred Hitchcock sobre un detective con acrofobia contratado para seguir a la misteriosa y suicida esposa de un amigo.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199017/db_movies/vertigoHitchcocks_hpa73n.jpg",
+        "year": 1984,
+        "tags": [
+          "Romance"
+        ],
+        "director": {
+          "name": "Alfred",
+          "last_name": "Hitchcock"
+        }
+      },
+      {
+        "_id": "5f72aff770824f0007d24aa7",
+        "title": "Para Atrapar Al Ladrón",
+        "synopsis": "Cuando John Robie aparece como sospechoso de una ola de robos de joyas en los lujosos hoteles de la Riviera francesa, debe esforzarse para limpiar su nombre antes de que sea demasiado tarde.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199017/db_movies/ParaAtraparAlLadr%C3%B3n_jv9i67.jpg",
+        "year": 1952,
+        "tags": [
+          "Drama"
+        ],
+        "director": {
+          "name": "Alfred",
+          "last_name": "Hitchcock"
+        }
+      },
+      {
+        "_id": "5f72b00d70824f0007d24aa8",
+        "title": "The Lady Vanishes",
+        "synopsis": "En un país centroeuropeo, el tren Transcontinental Express sufre un gran retraso a causa del mal tiempo. Los pasajeros pernoctan en un pequeño hotel, donde Iris Henderson conversa con una vieja institutriz inglesa, la señora Froy.Luego de reanudar el viaje, Iris nota la desaparición de la anciana, pero los demás pasajeros afirman que su amiga no existe y que ella ha sufrido una alucinación.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199020/db_movies/ladyVanishes_q0ckhp.jpg",
+        "year": 1939,
+        "tags": [
+          "Horror"
+        ],
+        "director": {
+          "name": "Alfred",
+          "last_name": "Hitchcock"
+        }
+      },
+      {
+        "_id": "5f72b01970824f0007d24aa9",
+        "title": "Los Pequeños Privilegios",
+        "synopsis": "Pedro y Cristina viven en medio del lujo, ella queda embarazada para beneplácito de los dos. Su sirvienta, la otra cara de la moneda, se embaraza pero no está contenta por lo que decide abortar aunque eso resulte en quedar estéril.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199020/db_movies/LosPeque%C3%B1osPrivilegios_mbv06h.jpg",
+        "year": 1977,
+        "tags": [
+          "Drama"
+        ],
+        "director": {
+          "name": "Luis",
+          "last_name": "Buñuel"
+        }
+      },
+      {
+        "_id": "5f72b02870824f0007d24aaa",
+        "title": "Susana (carne y demonio)",
+        "synopsis": "Susana (Rosita Quintana) después de escapar del reformatorio, llega a la hacienda de don Guadalupe (Fernando Soler), donde los habitantes la auxilian. Más tarde Susana empieza a seducir a todos los hombres de la hacienda, hasta a don Guadalupe.",
+        "img_url": "https://res.cloudinary.com/dufryyw5r/image/upload/v1599199019/db_movies/susanaCarneDemonioImg_gtezle.jpg",
+        "year": 1951,
+        "tags": [
+          "Drama"
+        ],
+        "director": {
+          "name": "Luis",
+          "last_name": "Buñuel"
+        }
+      },
+      {
+        "_id": "5f72b05a70824f0007d24aab",
+        "title": "Zodiac",
+        "synopsis": "Ha comenzado la caza de un asesino en serie en San Francisco. Pocos casos en la historia de un crimen verdadero son tan intrigantes como el de Zodiaco, un extraño hombre armado con capucha de verdugo, que se burla de la policía con docenas de cartas que contienen escalofriantes mensajes y criptogramas.",
+        "img_url": "https://i.pinimg.com/originals/3c/51/d8/3c51d81dd52dbaaf19c8b8b0510a6c51.jpg",
+        "year": 1999,
+        "tags": [
+          "Action"
+        ],
+        "director": {
+          "name": "David",
+          "last_name": "Fincher"
+        }
+      }
+    ],
+    "message": "movies listed"
+  }
