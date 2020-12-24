@@ -2,31 +2,27 @@ const getA = ()=>{
     return "A"
   }
   
-  const getB =(cb)=>{
-    setTimeout(()=>{
-      cb("B")
-    }, 10)
-  }
-  const getC = () => { 
-    return new Promise((resolve,reject)=>{
-      resolve("C")
-    })
-  }
-  
-  const getABC = ()=>{
-    return new Promise( async(resolve,reject)=>{
-      let arrFinal
-  
-      let soyA = getA()
-      let soyB = await getB(elemnt => elemnt); 
-      let soyC = await getC()
-      
+const getB = (cb) => {
+  setTimeout(()=>{
+    cb("B")
+  }, 10)
+}
 
-      arrFinal = [soyA, soyC]
-      
-      resolve(arrFinal)
+const getC = () => { 
+  return new Promise((resolve,reject)=>{
+    resolve("C")
+  })
+}
+
+const getABC = () => {
+  return new Promise((resolve, reject)=>{
+    getB( async element => {
+        let soyA = getA()
+        let soyC = await getC()
+        resolve([soyA, element, soyC])
     })
-  }
-  
-  getABC().then(e => console.log(e))
+  })
+}
+
+getABC().then(e => console.log(e))
   
