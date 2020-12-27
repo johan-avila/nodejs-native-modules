@@ -1,5 +1,6 @@
 const fs = require("fs")
 const { exec,spawn } = require("child_process")
+const EventEmitter = require('events');
 
 /* 1 */
 // fs.readFile(`${__dirname}/files/hola.txt`,(err, data)=>{
@@ -64,9 +65,37 @@ const { exec,spawn } = require("child_process")
 // fs.rename(`${__dirname}/files/hola.txt`, `${__dirname}/files/renombrado.js`, function(err) {
 //      console.log( err);
 // });
-/* 8 */
 //ESTOS EJERCICIOS DEBEN SER DE EVENT EMITER PETICIONES HTTP
-/* 9 */
+
+/* 8 */
+class MyEmmiter extends EventEmitter{}
+
+const myEmmiter = new MyEmmiter()
+
+myEmmiter.on("mievento", () => {
+    console.log("Mi evento 👽");
+});
+myEmmiter.on("nuevoEvento", () => {
+    console.log("Mi NUEVO evento 🎃");
+});
+
+myEmmiter.emit("nuevoEvento");
+console.log("7+5", 7+5);
+myEmmiter.emit("mievento");
+
+/* 9 */ //Este operador es experimental
+// let name = (name)=> name 
+// let saludo = (name) => {
+//     console.log(`Hola ${name}!!!`);
+// } 
+// name("Johan") > saludo()
+// const double = (n) => n * 2;
+// const increment = (n) => n + 1;
+// // sin operador pipeline
+// double(increment(double(double(5)))); // 42
+// // con operador pipeline
+// 5 |> double |> double |> increment |> double; // 42
+
 /* 10 */
 /* 11 */
 /* 12 */
